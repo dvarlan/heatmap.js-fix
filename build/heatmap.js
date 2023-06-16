@@ -524,7 +524,9 @@ var Canvas2dRenderer = (function Canvas2dRendererClosure() {
 
       }
 
-      img.data = imgData;
+      // Commented out so the package will work in a standard vue3 project
+      // Fixes the error referenced here: https://github.com/pa7/heatmap.js/issues/219 
+      //img.data = imgData;
       this.ctx.putImageData(img, x, y);
 
       this._renderBoundaries = [1000, 1000, 0, 0];
