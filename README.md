@@ -1,3 +1,10 @@
+# Information about this Fork
+
+I created this fork in order to fix the issue in the original heatmap.js package mentioned [here](https://github.com/pa7/heatmap.js/issues/219).
+
+Npm package coming soon.
+
+
 # heatmap.js
 Dynamic Heatmaps for the Web. 
 
