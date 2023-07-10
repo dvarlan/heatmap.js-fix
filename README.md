@@ -2,7 +2,7 @@
 
 I created this fork in order to fix the issue in the original heatmap.js package mentioned [here](https://github.com/pa7/heatmap.js/issues/219).
 
-Npm package coming soon.
+Npm package available [here](https://www.npmjs.com/package/heatmap.js-fix).
 
 
 # heatmap.js
